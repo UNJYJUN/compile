@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/3-_homework/compile/build",
+  "command": "D:\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\3-_homework\\compile\\main.cpp",
+  "file": "D:/3-_homework/compile/main.cpp"
+}
+]
